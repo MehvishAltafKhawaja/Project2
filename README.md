@@ -1,2 +1,2 @@
 I create a python file in this project 
-I Create a .getignore 
+<h1 style="color:blue;">I add Git Ignore In This Project</h1>
